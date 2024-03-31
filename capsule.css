@@ -1,10 +1,11 @@
 .result{
   display: flex;
-  width: 1000px;
+  width: fit-content;
   height: 70px;
   background-color: #c0c06b;
   justify-content: center;
   align-items: center;
+  padding: 8px 12px;
 }
 
 .capsule-ok{
